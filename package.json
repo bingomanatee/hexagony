@@ -1,0 +1,29 @@
+{
+  "name": "hexagony",
+  "version": "0.0.1",
+  "description": "Calculate a hexagonal grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bingomanatee/hexagony.git"
+  },
+  "keywords": [
+    "hexagons",
+    "canvas"
+  ],
+  "author": "Dave Edelhart",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bingomanatee/hexagony/issues"
+  },
+  "dependencies": {
+    "canvas": "~1.1.0",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "tap": "~0.4.4"
+  }
+}
